@@ -1,6 +1,5 @@
 <h1>Atividade aula 5 - HTML parte 1</h1>
-<img width="380" height="794" alt="Captura de tela 2026-09-21 115503" src="https://github.com/user-attachments/assets/9681284a-7695-4a74-a254-f6ac6fd75b90" />
-
+<img width="381" height="797" alt="Captura de tela 2026-09-21 134503" src="https://github.com/user-attachments/assets/5c676ed6-fd01-4348-beb8-26c8f2ea570b" />
 
 <h1>Tema:</h1>
 <p>Loja de games retro</p>
